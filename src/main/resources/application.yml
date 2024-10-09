@@ -1,0 +1,16 @@
+/*Spring:
+  datasource:
+    password: IMuJmUWyokfLQbhWxvFUxlwxoDFkwBOX
+    url: jdbc:mysql://root:IMuJmUWyokfLQbhWxvFUxlwxoDFkwBOX@junction.proxy.rlwy.net:24186/railway
+    username: root
+    spring:
+      main:
+  Jpa:
+    hibernate:
+      ddl-auto: update
+    Properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        format-sql: true
+      show-sql: true
+
